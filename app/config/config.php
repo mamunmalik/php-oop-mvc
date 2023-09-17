@@ -11,7 +11,7 @@ date_default_timezone_set('Asia/Dhaka');
 define('APPROOT', dirname(dirname(__FILE__)));
 
 //URLROOT (Dynamic links)
-define('URLROOT', 'http://phpform.local');
+define('URLROOT', 'http://localhost');
 
 //Sitename
 define('SITENAME', 'PHP Form Submission');
